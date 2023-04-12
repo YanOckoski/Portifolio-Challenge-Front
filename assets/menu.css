@@ -1,0 +1,59 @@
+/*CSS Reset / Normalize*/
+
+body {
+    
+    box-sizing: border-box;
+    background-color: #161827;
+    cursor: pointer;
+    font-family:  'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+   /* width: 100vw;*/}
+
+header {
+    
+    font-family:  'Ubuntu', sans-serif;
+    height: 52px;
+    left: 0;
+    right: 0;
+    background-color: #161827;
+    color: rgb(255, 229, 229);
+    z-index: 1;
+}
+
+nav {
+    text-align: end;
+    position: relative;
+    margin: -75px 50px;
+} 
+
+nav li {
+    display: inline-block;
+    margin: 16px 10px;
+}
+
+nav li:not(:last-child):after {
+   
+    margin-left: 24px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: rgb(255, 229, 229);
+   
+}
+
+
+
+nav li a:hover{
+    color: rgba(255, 229, 229, 0.5);
+   
+
+}
+
+.logo{
+    margin-left: 60px;
+    padding: 10px;
+}
+

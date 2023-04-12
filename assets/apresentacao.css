@@ -1,0 +1,87 @@
+section header h3.menu-apresentação {
+    margin-left: 8px;
+}
+
+section.menu nav ul.menu-list {
+    display: none;
+}
+
+section.menu nav li {
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+section.title div.title-div div.title-container h2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+section.title div.title-div div.title-container h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+ line-height: 16px;
+ line-height: 35px;
+}
+
+section.title div.title-div div.title-container ul {
+    font-family:  'Ubuntu', sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    font-size: 20px;
+    margin-left: 380px;
+}
+
+
+
+.section-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+.profile {
+    position: absolute;
+    width: 275px;
+    aspect-ratio: 1;
+    background-position: center;
+    background-size: cover;
+    right: 150px;
+    top: 280px;
+    border-radius: 200px;
+    
+}
+.social-logo {
+    width: 2rem;
+    border-radius: 30px;
+}
+
+h2{
+    font-family:  'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-top: 16rem;
+    color: white;
+    line-height: 2.2rem;
+    margin-left: 125px;
+}
+
+h3{
+    font-family:  'Ubuntu', sans-serif;
+    font-weight: 400;
+    padding-top: 1rem;
+    color: white;
+    line-height: 2.2rem;
+    margin-left: 125px;
+}
+

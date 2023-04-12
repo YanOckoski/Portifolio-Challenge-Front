@@ -1,0 +1,30 @@
+section.about {
+    padding: 3rem;
+    background-color: #EAF2FD;
+
+}
+
+section.about div.about-container p {
+    width: 60rem;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+section.about div.about-container img {
+    margin: 17px;
+    margin-left: 700px;
+}
+
+.quemsou{
+    font-family:  'Ubuntu', sans-serif;
+    color: #08090a;
+    font-size: 30px;
+    padding: 20px;
+    margin-left: -20px;
+    line-height: 30px;
+
+}
+

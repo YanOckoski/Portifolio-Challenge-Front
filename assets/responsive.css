@@ -1,0 +1,136 @@
+
+
+@media screen and (min-width: 375px) and (max-width: 470px) {
+
+   
+   .logo {
+        margin-left: 10px;
+        width: 20rem;
+    }
+ 
+    .menu_list_item {
+        opacity: 0;
+
+    }
+ 
+
+     section.title {
+        text-size-adjust: initial;
+        text-align: justify;
+        line-height: 15.2rem;
+        margin-right: -186px;
+    }
+
+    .profile {
+        margin: 181px -63px 0 0;
+       width: 175px;
+    }
+
+    section.title div.title-div div.title-container h2 {
+        margin: 0 70px;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+        margin-top: -130px;
+    }
+
+    section.title div.title-div div.title-container h3 {
+        margin: 0px 218px 0 65px;
+        font-size: 25px;
+        line-height: 26px;
+        text-align: start;
+    
+    }
+
+    section.title div.title-div div.title-container ul {
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        align-items: center;
+        padding: 30px;
+        font-size: 11px;
+        margin-left: 6px;
+        margin-top: -130px;
+    }
+
+    section.about {
+        padding: 5rem;
+        background-color: #EAF2FD;
+        margin: 56% - 385px 10px 0;
+        margin-top: -100px;
+    }
+
+    .quemsou{
+        text-size-adjust: initial;
+        text-align: justify;
+        margin-right: -186px;
+        margin-top: -60px
+    }
+
+    section.about div.about-container p {
+        width: auto;
+    height: auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.4rem;
+    text-align: justify;
+    color:  #161827;
+    margin: 0 -54px;
+    }
+
+    section.about div.about-container img {
+        margin: 17px;
+        
+    }
+
+    .skills .skills__line {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .hobbies__box {
+        margin: 0 68px;
+    }
+
+    .experience__section__title {
+        font-size: 20px;
+        padding: 30px;
+    }
+
+    .experience__img {
+        width: 282px;
+        margin: 58px 45px 63px 50px;
+    }
+
+    .experience__info {
+        margin: 11px 0 -67px -440px;
+    }
+
+    .experiencia-box {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .fale-comigo {
+        margin-top: 100px;
+    }
+
+    .preencha_dados h2 {
+        color: #000000;
+        font-size: 22px;
+        margin: 70px;
+        margin-top: 0px;
+    }
+
+    form {
+        margin: 0 -100px 0 70px;
+    }
+
+    fieldset {
+        padding: 5px;
+        margin: 0 -30px;
+
+    }
+   
+}
